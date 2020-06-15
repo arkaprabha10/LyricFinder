@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "304725773747",
+    "firebase_url": "https://lyricfinder-81eb2.firebaseio.com",
+    "project_id": "lyricfinder-81eb2",
+    "storage_bucket": "lyricfinder-81eb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304725773747:android:ea3bd2f43a1c84c9954fc6",
+        "android_client_info": {
+          "package_name": "com.example.lyricfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304725773747-cp8t1jjp81dcr7ivcr41dv8ju89ij3fr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZRMWYZYxnyNQdKvffbT5eaivFgBYtR84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304725773747-cp8t1jjp81dcr7ivcr41dv8ju89ij3fr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
